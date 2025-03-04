@@ -1,7 +1,7 @@
 # Galileo Ferraris Contest: Data-Driven modelling of Interior Permanant Magnet(IPM) motors
 
 ## Overview
-This repository is dedicated to the **Galileo Ferraris Contest**, where participants leverage data-driven methodologies to analyze and model traction motors. The contest emphasizes the challenges of **multi-physical** interactions in motor design, requiring advanced techniques to optimize performance while balancing contrasting constraints.
+This repository is our solution  to the problem statement presented in the **Galileo Ferraris Contest**. The contest emphasizes the challenges of **multi-physical** interactions in motor design, requiring advanced techniques to optimize performance while balancing contrasting constraints. This is currently an ongoing project and may more commits are yet to come.
 
 ## Context
 Traction motors present a **complex design challenge** due to their **multi-physical** nature, involving interactions across multiple domains:
