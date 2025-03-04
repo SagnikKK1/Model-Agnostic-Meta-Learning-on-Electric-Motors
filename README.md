@@ -41,6 +41,4 @@ Given these challenges, we explore the application of **machine learning and opt
 ## Acknowledgments
 This project is inspired by the **Galileo Ferraris Contest**, which promotes innovative approaches to traction motor design. The dataset and problem formulation are derived from real-world constraints encountered in engineering applications.
 
----
-For any questions or contributions, feel free to open an issue or submit a pull request!
 
