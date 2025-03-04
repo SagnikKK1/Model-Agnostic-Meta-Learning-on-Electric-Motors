@@ -24,10 +24,8 @@ These interactions impose **demanding constraints**, making traditional design a
 
 ## Data-Driven Approach
 Given these challenges, we explore the application of **machine learning and optimization techniques** to predict motor performance across different operating conditions. Potential approaches include:
-- **Physics-Informed Neural Networks (PINNs)** for incorporating physical constraints into learning.
-- **Meta-Learning (MAML)** to generalize across different motor datasets.
-- **Surrogate Modeling** for rapid evaluation of motor designs.
-- **Uncertainty Quantification** to assess reliability.
+- **Supervised Machine Learning techniques** for incorporating data driven approaches.
+- **Model Agnostic Meta-Learning (MAML)** to generalize across different motor datasets.
 
 ## Repository Structure
 - **data/**: Contains training and test datasets for different motor types.
