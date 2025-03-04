@@ -42,6 +42,5 @@ based on the optimal pareto front.
 - Use unsupervised learning for clustering the combined datasets into their motor class and use the labels for the interpolation task.
 - Use specific models to improve our predictions on Torque ripple which has come out to be the largest obstacle till now.
 ## Acknowledgments
-This project is inspired by the **Galileo Ferraris Contest**, which promotes innovative approaches to traction motor design. The dataset and problem formulation are derived from real-world constraints encountered in engineering applications.
-
+This project is inspired by the **Galileo Ferraris Contest**, which promotes innovative approaches to traction motor design. 
 
