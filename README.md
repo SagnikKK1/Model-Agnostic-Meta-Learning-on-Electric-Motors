@@ -37,10 +37,10 @@ based on the optimal pareto front.
 - **data/**: Contains training and test datasets for different motor types.
 - **notebooks/**: Jupyter notebooks for exploratory analysis and model development.
 
-## Next Steps
-- Implement and test transformer based Model Agnosting Meta Learning frameworks instead of the MLP based ones.
-- Use unsupervised learning for clustering the combined datasets into their motor class and use the labels for the interpolation task.
-- Use specific models to improve our predictions on Torque ripple which has come out to be the largest obstacle till now.
+## Final Submission
+- Our final submission uses boosting models like XGBoost and CatBoost.
+- Although Model Agnostic Meta Learning and Reptile Meta learning provided decent results, vanila boosting models had better results at the end.
+- Necessary readme and details are present in the final_submission folder.
 ## Acknowledgments
 This project is inspired by the **Galileo Ferraris Contest**, which promotes innovative approaches to traction motor design. 
 
