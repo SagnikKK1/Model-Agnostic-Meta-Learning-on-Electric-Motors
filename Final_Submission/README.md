@@ -1,12 +1,12 @@
-# 🚀 Gallileo Ferraris Contest 2025  
-## 🎯 Final Submission – Team MLotors
+#  Gallileo Ferraris Contest 2025  
+## Final Submission – Team MLotors
 
 Welcome to the official submission repository of **Team MLotors** for the **Galfer Contest 2025**.  
 This repository includes all necessary scripts and model files used for the **interpolation** and **extrapolation** tasks in the competition.
 
 ---
 
-## 📦 Repository Structure
+## Repository Structure
 
 ```
 ├── interpolation.py            # Script for the interpolation task  
@@ -18,7 +18,7 @@ This repository includes all necessary scripts and model files used for the **in
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 To set up your environment, install the required dependencies using:
 
@@ -28,16 +28,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 How to Run the Code
+## How to Run the Code
 
-### 🔹 Interpolation  
+### Interpolation  
 Call the `interpolation` function with the following **8 input parameters**:
 
 ```python
 interpolation(d_alpha, h_c, r, w_t, l_t, w_o, dxIB, gamma)
 ```
 
-### 🔸 Extrapolation  
+### Extrapolation  
 Call the `extrapolation` function with the following **12 input parameters**:
 
 ```python
